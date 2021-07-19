@@ -5,9 +5,9 @@
     "passes": 8,
     "pending": 0,
     "failures": 0,
-    "start": "2021-07-19T21:04:07.513Z",
-    "end": "2021-07-19T21:04:07.807Z",
-    "duration": 294
+    "start": "2021-07-19T21:08:07.722Z",
+    "end": "2021-07-19T21:08:08.017Z",
+    "duration": 295
   },
   "tests": [
     {
@@ -62,7 +62,7 @@
     {
       "title": "should return \"Bye.\" if anything else",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Bye.\" if anything else",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -122,7 +122,7 @@
     {
       "title": "should return \"Bye.\" if anything else",
       "fullTitle": "index.js switchOnCharmFromTip() should return \"Bye.\" if anything else",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
